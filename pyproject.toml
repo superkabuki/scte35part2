@@ -1,9 +1,9 @@
 
 [project]
 name = "scte35part2"
-version = "1.0.3"
+version = "1.0.1"
 authors = [
-  { name="AdrianofDoom", email="spam@iodisco.com" },
+  { name="Adrian of Doom", email="spam@bigcorp.ltd" },
 ]
 description = "not yet."
 readme = "README.md"
@@ -16,7 +16,6 @@ classifiers = [
         "Programming Language :: Python :: Implementation :: PyPy",
         "Programming Language :: Python :: Implementation :: CPython",
 ]
-license = "Sleepycat"
 license-files = ["LICEN[CS]E*"]
 
 
